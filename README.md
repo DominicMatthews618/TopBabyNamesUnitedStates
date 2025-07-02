@@ -2,7 +2,7 @@
 This project explores trends in the most popular baby names across the United States from 1910 to 2012. Using a combination of Tableau visualizations, it highlights national and regional patterns in name popularity, gender distribution, and historical shifts in naming trends.
 
 
-🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/dominic.matthews/viz/TopBabyNames_17509599403410/TopBabyNamesDashboard?publish=yes)
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/dominic.matthews/viz/TopBabyNames_17509599403410/TopBabyNamesDashboard?publish=yes)   *(Ctrl+Click to open in a new tab)*
 
 
 📌 Features
